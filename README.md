@@ -11,6 +11,8 @@ Voor je aan de oefeningen begint, moet je deze repository ‘forken’ naar je e
 
 ## Vanaf je eigen fork
 
+Zorg ervoor dat de omschrijvingen in het Git log duidelijk zijn. (in het Engels bovendien)
+
 1. Download de hele repository (met de hele geschiedenis) naar je eigen computer.
 2. Zorg dat je alle branches van de repository op je eigen computer hebt. (Hint: `git fetch --all`)
 3. Maak een nieuwe branch 'new_branch'.
@@ -18,7 +20,7 @@ Voor je aan de oefeningen begint, moet je deze repository ‘forken’ naar je e
 5. Voeg test.txt toe aan je repository (in de branch new_branch).
 6. Zorg ervoor dat new_branch ook op Github beschikbaar is.
 7. Merge de branch conflict naar main.
-8. Los eventuele conflicten op.
+8. Los eventuele conflicten op. (In conflict.txt krijg je: 'Git is very hard, but I still love it!')
 9. Voeg de nieuwe staat van main toe aan je repository.
 10. Zorg ervoor dat de nieuwe versie van main ook op Github beschikbaar is.
 
